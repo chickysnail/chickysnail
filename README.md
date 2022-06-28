@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Artem, I am currently a <a href="https://en.letovo.ru">Letovo Student</a> in 11th (final) grade. My study majors are IT and Maths, I also am intrested in natural sciences. 
+
+In this github I am not yet posting complex projects, since I don't have much of them. Here you may find repositories with unconnected files, that only have in common their topics. However, I hope in the future it will be easy to track my progress here!
+
+📫 You can contact me in [Telegram](https://t.me/chickysnail) and via this email: artem.m.tronin@gmail.com
+
 <!--
 **chickysnail/chickysnail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
